@@ -1,2 +1,2 @@
-# presidential-os-2.0
-Custom Fedora-based controller-first OS
+# Presidential OS Builder
+Instructions for building your custom ISO using GitHub Actions.
